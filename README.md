@@ -11,7 +11,9 @@
 go run main.go db.sql
 
 
-### 1. รัน Backend
+---
+
+### 2. รัน Backend
 ```bash
 cd frontend
 npm install
