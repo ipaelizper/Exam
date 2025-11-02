@@ -7,15 +7,16 @@
 ## วิธีรัน
 
 ###  รัน Backend / Frontend
-Backend
+
 
 ```bash
+cd exam-api
 go run main.go db.sql
 
 
 
- Backend
-```bash
+ 
+
 cd frontend
 npm install
 npm run dev
