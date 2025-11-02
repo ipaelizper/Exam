@@ -6,14 +6,15 @@
 
 ## วิธีรัน
 
-### 1. รัน Backend
+###  รัน Backend / Frontend
+Backend
+
 ```bash
 go run main.go db.sql
 
 
----
 
-### 2. รัน Backend
+ Backend
 ```bash
 cd frontend
 npm install
